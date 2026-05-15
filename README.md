@@ -1,1 +1,3 @@
-# flux-protocol-docs
+# FLUX Protocol
+
+Welcome to the FLUX Protocol documentation.
